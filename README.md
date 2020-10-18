@@ -1,5 +1,11 @@
 <div align='center'>
 	<h1>Hi 👋, I'm Ariel Alfonso Triana Pérez</h1>
+	
+	<h3>I'm a student of Computer Science in Cuba</h3>
+	
+	<p><img src="https://github-readme-stats.vercel.app/api?username=arieltriana&count_private=true&show_icons=true" alt="github-stats-arieltriana"/></p>
+	
+	<a href="https://profile.codersrank.io/user/arieltriana" alt="codesrank-profile-arieltriana" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leynier" height="20" width="20" /></a>
 </div>
 <!--
 **ArielTriana/ArielTriana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
