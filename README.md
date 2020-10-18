@@ -1,7 +1,7 @@
 <div align='center'>
 	<h1>Hi 👋, I'm Ariel Alfonso Triana Pérez</h1>
 	
-	<h3>I'm a student of Computer Science in Cuba</h3>
+	<h3 align='center'>I'm a student of Computer Science in Cuba</h3>
 	
 	<p><img src="https://github-readme-stats.vercel.app/api?username=arieltriana&count_private=true&show_icons=true" alt="github-stats-arieltriana"/></p>
 	
