@@ -14,6 +14,8 @@
   	&nbsp;&nbsp;&nbsp;&nbsp;
   	<a href="https://fb.com/arielalfonso.trianaperez/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fb-arieltriana" height="20" width="20"/></a>
   	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/ArielTriana" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github-arieltriana" height="20" width="20"/></a>
+  	&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!--
