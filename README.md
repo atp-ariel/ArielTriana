@@ -72,7 +72,8 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="30">
+	&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <!-- End tech stacks -->
 
