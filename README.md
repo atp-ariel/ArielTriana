@@ -1,5 +1,9 @@
 <img src="https://ik.imagekit.io/atpariel/1500x500_zTT59hrlyF.jpeg?updatedAt=1634338326545" width="1024"/>
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ArielTriana/count.svg" />
+</p>
+
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 	
 I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 21 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP.
