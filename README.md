@@ -62,15 +62,15 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 <h2 align="center"> Where to find me? </h2>
 
 <p align="center">
-	<a href="https://arieltriana.github.io"><img src="https://img.icons8.com/ios/20/000000/globe.png" alt="website-arieltriana" height="20" width="20"/></a>
+	<a href="https://arieltriana.github.io"><img src="./src/globe.svg" alt="website-arieltriana" height="20" width="20"/></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/atp_ariel"  target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter-arieltriana" height="20" width="20" /></a>
+	<a href="https://twitter.com/atp_ariel"  target="blank"><img src="./src/twitter.svg" alt="twitter-arieltriana" height="20" width="20" /></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://t.me/atp_ariel" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram-arieltriana" height="20" width="20" /></a>
+	<a href="https://t.me/atp_ariel" target="blank"><img src="./src/telegram.svg" alt="telegram-arieltriana" height="20" width="20" /></a>
   	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/ArielTriana" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github-arieltriana" height="20" width="20"/></a>
+	<a href="https://github.com/ArielTriana" target="blank"><img src="./src/github.svg" alt="github-arieltriana" height="20" width="20"/></a>
   	&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="mailto:usich37@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail-arieltriana" height="20" width="20"/></a>
+	<a href="mailto:usich37@gmail.com"><img src="./src/gmail.svg" alt="gmail-arieltriana" height="20" width="20"/></a>
   	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://profile.codersrank.io/user/arieltriana" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codersrank.svg" alt="codesrank-arieltriana" height="20" width="20"/></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
