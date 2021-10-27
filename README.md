@@ -57,7 +57,7 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=arieltriana&count_private=true&show_icons=true" alt="github-stats-arieltriana"/></p>
 	
 
-<h2 align="center"> Where contact me? </h2>
+<h2 align="center"> Where to find me? </h2>
 
 <p align="center">
 	<a href="https://arieltriana.github.io"><img src="https://img.icons8.com/ios/20/000000/globe.png" alt="website-arieltriana" height="20" width="20"/></a>
