@@ -77,6 +77,12 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 </p>
 <!-- End tech stacks -->
 
+<!-- Tools -->
+<h2 align="center">🛠 Tools to be productive</h2>
+
+- [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) is a tool to plan work time on projects using the Pomodoro technique and Kanban boards
+- [Obsidian](https://obsidian.md)  is a powerful knowledge base on top of a local folder of plain text Markdown files.
+<!-- End tools -->
 
 <!-- Github stats -->
 <h2 align="center">⚡ My GitHub Statistics</h2>
