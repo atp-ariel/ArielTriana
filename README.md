@@ -10,7 +10,9 @@
 
 
 <!-- Bio section -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">
+	Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 	
 I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 21 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP.
 
@@ -18,7 +20,9 @@ I have participated in scientific events such as [EMNO 2020](http://tikhonov.fci
 
 I speak Spanish (native) and English. I love music. I play piano, guitar, bass, and a little drums.
 
-<!-- End bio section -->
+- 🔭 I’m currently working on (Battle Sim)[https://github.com/ArielTriana/battle-sim]
+- 🌱 I’m currently learning React.js, React Native, Docker, Artifical Intelligence, Compilation, Simulation, Information Retrieval
+- 
 
 <!-- Tech stacks -->
 <h2 align="center"> 🧑‍💻 Tech stacks </h2>
