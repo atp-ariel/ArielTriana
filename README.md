@@ -22,7 +22,6 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 
 - 🔭 I’m currently working on (Battle Sim)[https://github.com/ArielTriana/battle-sim]
 - 🌱 I’m currently learning React.js, React Native, Docker, Artifical Intelligence, Compilation, Simulation, Information Retrieval
-- 
 
 <!-- Tech stacks -->
 <h2 align="center"> 🧑‍💻 Tech stacks </h2>
