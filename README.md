@@ -101,13 +101,7 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 
 <!-- End Github stats -->	
 
-<!-- Blog -->
-<h2 align="center"> Blog </h2>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- End blog -->
 
 <!-- Contact section -->
 <h2 align="center">📞 Where to find me? </h2>
