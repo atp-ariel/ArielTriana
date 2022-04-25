@@ -1,11 +1,6 @@
 <!-- Header section -->
 
 <img src="https://ik.imagekit.io/atpariel/1500x500_zTT59hrlyF.jpeg?updatedAt=1634338326545" width="1024"/>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ArielTriana/count.svg" />
-</p>
-
 <!-- End  Header section -->
 
 
