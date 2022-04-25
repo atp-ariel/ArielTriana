@@ -79,20 +79,6 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 - [ZSH](https://zsh.org) is a shell wich include some of features of Bash, KSH & and other Unix terminal. 
 <!-- End tools -->
 
-<!-- Github stats -->
-<h2 align="center">⚡ My GitHub Statistics</h2>
-
-<div align="center">
-
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arieltriana&count_private=true&show_icons=true" alt="github-stats-arieltriana"/></p>
-
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielTriana&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="github-most-used-language"/></p>
-
-</div> 
-
-<!-- End Github stats -->	
-
-
 
 <!-- Contact section -->
 <h2 align="center">📞 Where to find me? </h2>
