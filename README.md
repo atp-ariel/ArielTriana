@@ -14,14 +14,16 @@
 	Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 	
-I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 21 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP.
+I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 22 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP.
 
 I have participated in scientific events such as [EMNO 2020](http://tikhonov.fciencias.unam.mx/emno2020/archivos/ProgramaEMNO2020.pdf) and the [National Festival of Mathematics and Computer Science 2021](https://medium.com/juventud-t%C3%A9cnica/premian-trabajos-del-festival-nacional-de-matem%C3%A1tica-y-computaci%C3%B3n-16c3989d93ea), with the line of work, Solving Parametric Initial Value Problems using Neural Networks, obtaining a mention in the Applied Mathematics jury in the latter event.
 
+Actually. I'm researching about 3D reconstruction of diabetic foot ulcer (DFU) using Intel RealSense Depth Cameras D435i. 
+
 I speak Spanish (native) and English. I love music. I play piano, guitar, bass, and a little drums.
 
-- 🔭 I’m currently working on [Battle Sim](https://github.com/ArielTriana/battle-sim)
-- 🌱 I’m currently learning React.js, React Native, Docker, Artifical Intelligence, Compilation, Simulation, Information Retrieval
+- 🔭 I’m currently working on [Cafeccino Cuba](https://github.com/Cafeccino/cafeccino-web) & [Science Gate](https://github.com/Science-Gate)
+- 🌱 I’m currently learning React.js, React Native, Docker, Distributed Systems, Design of Algorithms, Machine Learning.
 - 👨‍💻 All of my projects are available at [my website](https://arieltriana.github.io)
 
 <!-- Tech stacks -->
