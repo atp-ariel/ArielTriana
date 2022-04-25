@@ -38,19 +38,9 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="30">
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
@@ -70,11 +60,9 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/powershell.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="30">
 	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"> 
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30">
 	&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,6 +76,7 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 
 - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) is a tool to plan work time on projects using the Pomodoro technique and Kanban boards
 - [Obsidian](https://obsidian.md)  is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- [ZSH](https://zsh.org) is a shell wich include some of features of Bash, KSH & and other Unix terminal. 
 <!-- End tools -->
 
 <!-- Github stats -->
