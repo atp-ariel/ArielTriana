@@ -17,7 +17,7 @@ Actually. I'm researching about 3D reconstruction of diabetic foot ulcer (DFU) u
 
 I speak Spanish (native) and English. I love music. I play piano, guitar, bass, and a little drums.
 
-- 🔭 I’m currently working on [Cafeccino Cuba](https://github.com/Cafeccino-Cuba/cafeccino-web) & [Science Gate](https://github.com/Science-Gate)
+- 🔭 I’m currently working on [Cafeccino Cuba](https://github.com/Cafeccino-Cuba/cafeccino-web) & [Roar](https://github.com/Roar-Network)
 - 🌱 I’m currently learning React.js, React Native, Docker, Distributed Systems, Design of Algorithms, Machine Learning.
 - 👨‍💻 All of my projects are available at [my website](https://arieltriana.github.io)
 
