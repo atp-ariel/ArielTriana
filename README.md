@@ -6,7 +6,7 @@
 
 <!-- Bio section -->
 <h1 align="center">
-	Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+	Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 </h1>
 	
 I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 22 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP.
@@ -38,8 +38,6 @@ I speak Spanish (native) and English. I love music. I play piano, guitar, bass, 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"> 
-	&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30"> 
 	&nbsp;&nbsp;&nbsp;&nbsp;
