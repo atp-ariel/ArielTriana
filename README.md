@@ -6,15 +6,15 @@
 Hi 👋 My name is Ariel Triana
 =============================
 
-BSc. Computer Science 🧑‍🎓 - Software Developer 👨‍💻
+BSc. Computer Science 🧑‍🎓 - Python Developer 👨‍💻
 ------------------------------------------------------
 
-I am Ariel Alfonso Triana Pérez, I live in Cuba and I'm 22 years old. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP. I have participated in scientific events such as [EMNO 2020](http://tikhonov.fciencias.unam.mx/emno2020/archivos/ProgramaEMNO2020.pdf) and the [National Festival of Mathematics and Computer Science 2021](https://medium.com/juventud-t%C3%A9cnica/premian-trabajos-del-festival-nacional-de-matem%C3%A1tica-y-computaci%C3%B3n-16c3989d93ea), with the line of work, Solving Parametric Initial Value Problems using Neural Networks, obtaining a mention in the Applied Mathematics jury in the latter event. Actually, I'm researching about 3D reconstruction of diabetic foot ulcer (DFU) using Intel RealSense Depth Cameras D435i. I speak Spanish (native) and English. 
-*   🌍  I'm based in Havana, Cuba 🇨🇺
+I am Ariel Alfonso Triana Pérez, I live in Madrid and I'm 23 years old. I was born in Cuba 🇨🇺. I am a Christian and a student of Computer Science at the University of Havana. I love data science & web development. Knowledgeable about good programming practices, software architectures and agile code development using methodologies such as Scrum, Kanban and XP. I have participated in scientific events such as [EMNO 2020](http://tikhonov.fciencias.unam.mx/emno2020/archivos/ProgramaEMNO2020.pdf) and the [National Festival of Mathematics and Computer Science 2021](https://medium.com/juventud-t%C3%A9cnica/premian-trabajos-del-festival-nacional-de-matem%C3%A1tica-y-computaci%C3%B3n-16c3989d93ea), with the line of work, Solving Parametric Initial Value Problems using Neural Networks, obtaining a mention in the Applied Mathematics jury in the latter event. Actually, I'm researching about 3D reconstruction of diabetic foot ulcer (DFU) using Intel RealSense Depth Cameras D435i. I speak Spanish (native) and English. 
+*   🌍  I'm based in Madrid, Spain 🇪🇸
 *   🖥️  See my portfolio at [my website](http://ariel.triana.github.io)
 *   ✉️  You can contact me at [usich37@gmail.com](mailto:usich37@gmail.com)
-*   🚀  I'm currently working on [Cafeccino Cuba](http://github.com/Cafeccino-Cuba/cafeccino-web) & [Roar](http://github.com/Roar-Networking)
-*   🧠  I'm learning React.js, Machine Learning & Distributed Systems
+*   🚀  I'm currently working on [BNZSA](https://bnzsa.com) as Python Developer & on my personal project.
+*   🧠  I'm learning 3D Reconstruction, Wound classification, & always a little more about software development
 
 ### Skills
 <p align="left">
